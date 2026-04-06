@@ -31,7 +31,7 @@ Tecnologias utilizadas
 Como executar o programa
 
 <p align="center">
-  <img src="assets/.png" width="600"/>
+  <img src="assets/1.png" width="600"/>
 </p>
 
 1. Instale um compilador C (como GCC).
