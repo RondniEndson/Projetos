@@ -6,7 +6,7 @@ O objetivo do programa é calcular o gasto estimado de combustível de uma viage
 preview: 
 
 <p align="center">
-  <img src="Assets/2.png" width="600"/>
+  <img src="assets/2.png" width="600"/>
 </p>
 
 Objetivo
@@ -31,7 +31,7 @@ Tecnologias utilizadas
 Como executar o programa
 
 <p align="center">
-  <img src="Assets/1.png" width="600"/>
+  <img src="assets/1.png" width="600"/>
 </p>
 
 1. Instale um compilador C (como GCC).
