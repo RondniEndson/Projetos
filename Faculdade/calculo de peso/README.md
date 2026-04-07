@@ -17,16 +17,16 @@ Python 3
 
 - preview:
 
-
-
+  <p align="center">
+  <img src="assets/2.png" width="600"/>
+</p>
 
 - tutorial
 
 baixe o arquivo e exeucute.
-
-
-
-
+<p align="center">
+  <img src="assets/1.png" width="600"/>
+</p>
 
 
 Com este projeto, foi possível praticar:
