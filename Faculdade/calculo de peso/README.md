@@ -18,14 +18,14 @@ Python 3
 - preview:
 
   <p align="center">
-  <img src="assets/.png" width="600"/>
+  <img src="assets/1.png" width="600"/>
 </p>
 
 - tutorial
 
 baixe o arquivo e exeucute.
 <p align="center">
-  <img src="assets/.png" width="600"/>
+  <img src="assets/2.png" width="600"/>
 </p>
 
 
