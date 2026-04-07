@@ -24,9 +24,7 @@ preview
 
 - Como executar o projeto
 
-- <p align="center">
-  <img src="assets/1.png" width="600"/>
-</p>
+- 
 
 
 - Execute o arquivo: python calculadora.py
