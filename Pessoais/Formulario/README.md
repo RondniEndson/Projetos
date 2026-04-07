@@ -28,7 +28,7 @@ Como Usar
  Abra o arquivo `index.html` no seu navegador.
 
  <p align="center">
-  <img src="assets/1.png" width="600"/>
+  <img src="assets/tutorial.png" width="600"/>
 </p>
 
 Validações Implementadas
