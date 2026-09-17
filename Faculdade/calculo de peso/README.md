@@ -23,7 +23,7 @@ Python 3
 
 - tutorial
 
-baixe o arquivo e exeucute.
+baixe o arquivo e execute.
 <p align="center">
   <img src="assets/2.png" width="600"/>
 </p>
